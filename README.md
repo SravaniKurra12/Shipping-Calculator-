@@ -1,5 +1,5 @@
 # Shipping-Calculator-
-This initiative aims to lead to an optimized supply chain management process.
+This initiative aims to lead to an optimized supply chain management process and to ensure seamless collaboration, effective version control, and efficient project management.
 Please consider the below factors while contributing
 Code Style:
 Maintain a consistent code style for readability.
